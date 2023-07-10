@@ -9,3 +9,5 @@ public class SpringSqlTrainDemoApplication {
         SpringApplication.run(SpringSqlTrainDemoApplication.class, args);
     }
 }
+
+
